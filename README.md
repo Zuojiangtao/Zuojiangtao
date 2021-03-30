@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub Stats：
+[![Zuojiangtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+### Contact me:
+- Email: [![Email](https://img.shields.io/badge/1799158837@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1799158837@qq.com)
