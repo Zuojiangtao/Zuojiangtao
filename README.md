@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ### Contact me:
-- Email: [![Email](https://img.shields.io/badge/1799158837@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1799158837@qq.com)
+- Email: [![Email](https://img.shields.io/badge/jiangtao.zuo@geely.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jiangtao.zuo@geely.com)
