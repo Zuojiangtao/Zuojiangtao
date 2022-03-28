@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 ### Contact me:
-- Email: [![Email](https://img.shields.io/badge/jiangtao.zuo@geely.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jiangtao.zuo@geely.com)
+- Email: [![Email](https://img.shields.io/badge/zuo.jiangtao@h3c.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuo.jiangtao@h3c.com)
