@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Vue.js](https://img.shields.io/badge/-Vuejs-3878C6?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/-React-3C78A9?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-ff751a?style=flat-square&logo=Node.js)
 
 ### Contact me:
 - Email: [![Email](https://img.shields.io/badge/zuo.jiangtao@h3c.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuo.jiangtao@h3c.com)
