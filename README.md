@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact)](https://github.com/Zuojiangtao/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=Zuojiangtao&theme=flat&column=6" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-3878C6?style=flat-square&logo=vue.js)
