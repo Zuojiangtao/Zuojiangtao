@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats：
 
-<!-- [![Zuojiangtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true)](https://github.com/Zuojiangtao/github-readme-stats)
+[![Zuojiangtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true)](https://github.com/Zuojiangtao/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact)](https://github.com/Zuojiangtao/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact)](https://github.com/Zuojiangtao/github-readme-stats) -->
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zuojiangtao&count_private=true&show_icons=true&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuojiangtao&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Github Profile Trophy:
 <img src="https://github-profile-trophy.vercel.app/?username=Zuojiangtao&theme=flat&column=6" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
-### GitHub Activity Graph:
-![Zuojiangtao's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zuojiangtao&hide_border=true&theme=github)
+<!-- ### GitHub Activity Graph: -->
+<!-- ![Zuojiangtao's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zuojiangtao&hide_border=true&theme=github) -->
 
-### GitHub Streak Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuojiangtao"></img>
+<!-- ### GitHub Streak Stats: -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuojiangtao"></img> -->
 
 ### Contact me:
 - Email: [![Email](https://img.shields.io/badge/zuo.jiangtao@h3c.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuo.jiangtao@h3c.com)
