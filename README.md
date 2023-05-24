@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-ff751a?style=flat-square&logo=Node.js)
 
 ### Github Profile Trophy:
-<img src="https://github-profile-trophy.vercel.app/?username=Zuojiangtao&theme=flat&column=6" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zuojiangtao&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!-- ### GitHub Activity Graph: -->
 <!-- ![Zuojiangtao's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zuojiangtao&hide_border=true&theme=github) -->
