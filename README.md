@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vuejs-3878C6?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-3C78A9?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-ff751a?style=flat-square&logo=Node.js)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat-square&logo=Next.js)
 
 ### Github Profile Trophy:
 <img src="https://github-profile-trophy.vercel.app/?username=Zuojiangtao&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
