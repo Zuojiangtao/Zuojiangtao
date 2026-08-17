@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuojiangtao"></img> -->
 
 ### Contact me:
-- Email: [![Email](https://img.shields.io/badge/zuo.jiangtao@h3c.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuo.jiangtao@h3c.com)
+- Email: [![Email](https://img.shields.io/badge/1799158837@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1799158837@qq.com)
